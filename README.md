@@ -21,4 +21,6 @@
 
 - 环境依赖：php需要载入zip/dom两个扩展，目前高版本php内核已经自动包含，低版本在php.ini中找到zip/dom的so(或dll)，去掉注释。
 
-
+[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+    
